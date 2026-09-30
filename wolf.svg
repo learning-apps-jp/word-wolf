@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 260" role="img" aria-label="月明かりの狼">
+<defs><radialGradient id="moon"><stop stop-color="#f6e4b9"/><stop offset="1" stop-color="#caa76b"/></radialGradient><linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bac5d2"/><stop offset="1" stop-color="#64738a"/></linearGradient></defs>
+<circle cx="141" cy="123" r="105" fill="url(#moon)"/><circle cx="141" cy="123" r="114" fill="none" stroke="#e3c58b" stroke-opacity=".2"/>
+<g fill="#b3915d" opacity=".15"><circle cx="207" cy="96" r="16"/><circle cx="185" cy="54" r="9"/><circle cx="228" cy="133" r="10"/></g>
+<!-- Long canine muzzle, upright ears, and a jagged winter ruff. -->
+<path d="M42 234L65 187L53 192L71 156L59 160L78 130L76 103L87 44L112 81L133 62L142 90Q169 94 180 112L218 129L240 139L235 154L206 160L183 179L174 205L155 247L128 231L98 250L88 235L67 245L70 228Z" fill="#182238" stroke="#182238" stroke-width="5" stroke-linejoin="round"/>
+<path d="M85 105L91 61L111 94L134 77L136 100Q157 99 174 117L210 136L231 143L211 152L181 169L164 201L150 233L128 214L103 238L104 208L78 219L90 188L69 190L94 153L82 157L99 129Z" fill="url(#fur)"/>
+<path d="M94 72L101 100L91 97Z" fill="#46536b"/><path d="M130 84L126 105L136 103Z" fill="#46536b"/>
+<path d="M111 111Q138 106 162 121L140 123L126 136L107 144L112 127L98 131Z" fill="#43536d"/>
+<path d="M150 139L172 130L211 146L185 163L162 186L150 207L143 183L126 182L140 165L121 159Z" fill="#dbe2e7"/>
+<path d="M218 135L240 139L235 151L221 149L215 141Z" fill="#111a2b"/>
+<path d="M178 158L205 154L222 153" fill="none" stroke="#253148" stroke-width="3" stroke-linecap="round"/>
+<path d="M141 119L158 120L149 126L141 124Z" fill="#f5d58b"/><circle cx="150" cy="122" r="2" fill="#111a2b"/>
+<path d="M110 155L102 174L121 162M106 191L123 175M129 203L142 190" fill="none" stroke="#596981" stroke-width="3" stroke-linecap="round"/>
+</svg>
